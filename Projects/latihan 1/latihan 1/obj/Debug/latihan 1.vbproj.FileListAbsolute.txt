@@ -1,0 +1,12 @@
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\bin\Debug\latihan 1.exe.config
+C:\Users\User\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\obj\Debug\latihan_1.Form1.resources
+C:\Users\User\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\obj\Debug\latihan_1.Form2.resources
+C:\Users\User\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\obj\Debug\latihan_1.Resources.resources
+C:\Users\User\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\obj\Debug\latihan 1.vbproj.GenerateResource.Cache
+C:\Users\User\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\bin\Debug\latihan 1.exe
+C:\Users\User\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\bin\Debug\latihan 1.pdb
+C:\Users\User\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\bin\Debug\latihan 1.xml
+C:\Users\User\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\obj\Debug\latihan 1.exe
+C:\Users\User\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\obj\Debug\latihan 1.xml
+C:\Users\User\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\obj\Debug\latihan 1.pdb
+C:\Users\User\onedrive\dokumen\visual studio 2013\Projects\latihan 1\latihan 1\obj\Debug\latihan_1.Form3.resources
