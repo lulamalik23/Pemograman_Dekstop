@@ -1,0 +1,14 @@
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\bin\Debug\tugas 1_dekstop.exe.config
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\bin\Debug\tugas 1_dekstop.exe
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\bin\Debug\tugas 1_dekstop.pdb
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\bin\Debug\tugas 1_dekstop.xml
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\obj\Debug\tugas_1_dekstop.Form1.resources
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\obj\Debug\tugas_1_dekstop.Resources.resources
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\obj\Debug\tugas 1_dekstop.vbproj.GenerateResource.Cache
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\obj\Debug\tugas 1_dekstop.exe
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\obj\Debug\tugas 1_dekstop.xml
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\obj\Debug\tugas 1_dekstop.pdb
+C:\Program Files\Visual Studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\bin\Debug\tugas 1_dekstop.exe.config
+C:\Program Files\Visual Studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\obj\Debug\tugas 1_dekstop.exe
+C:\Program Files\Visual Studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\obj\Debug\tugas 1_dekstop.xml
+C:\Program Files\Visual Studio 2013\Projects\tugas 1_dekstop\tugas 1_dekstop\obj\Debug\tugas 1_dekstop.pdb

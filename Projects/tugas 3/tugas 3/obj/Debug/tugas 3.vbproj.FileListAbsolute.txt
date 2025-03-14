@@ -1,0 +1,10 @@
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 3\tugas 3\bin\Debug\tugas 3.exe.config
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 3\tugas 3\bin\Debug\tugas 3.exe
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 3\tugas 3\bin\Debug\tugas 3.pdb
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 3\tugas 3\bin\Debug\tugas 3.xml
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 3\tugas 3\obj\Debug\tugas_3.Form1.resources
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 3\tugas 3\obj\Debug\tugas_3.Resources.resources
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 3\tugas 3\obj\Debug\tugas 3.vbproj.GenerateResource.Cache
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 3\tugas 3\obj\Debug\tugas 3.exe
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 3\tugas 3\obj\Debug\tugas 3.xml
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\tugas 3\tugas 3\obj\Debug\tugas 3.pdb

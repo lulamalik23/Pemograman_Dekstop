@@ -1,0 +1,10 @@
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\pertemuan 5\pertemuan 5\bin\Debug\pertemuan 5.exe.config
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\pertemuan 5\pertemuan 5\obj\Debug\pertemuan_5.Form1.resources
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\pertemuan 5\pertemuan 5\obj\Debug\pertemuan_5.Resources.resources
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\pertemuan 5\pertemuan 5\obj\Debug\pertemuan 5.vbproj.GenerateResource.Cache
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\pertemuan 5\pertemuan 5\bin\Debug\pertemuan 5.exe
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\pertemuan 5\pertemuan 5\bin\Debug\pertemuan 5.pdb
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\pertemuan 5\pertemuan 5\bin\Debug\pertemuan 5.xml
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\pertemuan 5\pertemuan 5\obj\Debug\pertemuan 5.exe
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\pertemuan 5\pertemuan 5\obj\Debug\pertemuan 5.xml
+c:\users\user\onedrive\dokumen\visual studio 2013\Projects\pertemuan 5\pertemuan 5\obj\Debug\pertemuan 5.pdb
